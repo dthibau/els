@@ -3,3 +3,4 @@
 *.class
 *#
 **/emails-recus/
+.idea/
